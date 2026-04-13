@@ -62,4 +62,4 @@ VITE_RAZORPAY_KEY=your_razorpay_test_key
 ```bash
 npm run dev
 ```
-Navigate to `http://localhost:5173` to view the site!
+Navigate to `https://crowd-funding-16339.web.app` to view the site!
